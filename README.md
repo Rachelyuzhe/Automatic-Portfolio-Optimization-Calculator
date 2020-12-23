@@ -1,7 +1,7 @@
 # Automatic-Portfolio-Optimization-Calculator
 An Automatic Portfolio Optimization Calculator based on Markowitz’s Portfolio Selection Theory
 
-Here are three functions of this calculator:
+This calculator solve three problems for stock portfolio selection:
 
 •	Automatic find out the maximum Sharpe ratio portfolio and minimum volatility portfolio based on Monte Carlo Simulation
 
