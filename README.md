@@ -9,4 +9,4 @@ Here are three functions of this calculator:
 
 •	Automatic Construct the minimum volatility portfolio for stocks given a minimize return requirement with Pyomo in Python
 
-Introduction PPT: https://github.com/Rachelyuzhe/Automatic-Portfolio-Optimization-Calculator/blob/main/Intro_Markowitz%20Portfolio%20Selection%20Model_YuzheZhao.pdf
+Introduction PPT: [Intro_Markowitz Portfolio Selection Model_YuzheZhao](https://github.com/Rachelyuzhe/Automatic-Portfolio-Optimization-Calculator/blob/main/Intro_Markowitz%20Portfolio%20Selection%20Model_YuzheZhao.pdf)
